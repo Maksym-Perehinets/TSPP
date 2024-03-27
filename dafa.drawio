@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-03-27T21:02:16.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="IvmJQMahOmlI4gN3yMtm" version="24.2.0" type="device">
+  <diagram name="Page-1" id="15HfdXesyscBK70qmJv4">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RaLUIaF08H_UZohIrEr6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-4" target="RaLUIaF08H_UZohIrEr6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-4" target="RaLUIaF08H_UZohIrEr6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-4" target="RaLUIaF08H_UZohIrEr6-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="170" />
+              <mxPoint x="175" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-4" value="юзер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-5" target="RaLUIaF08H_UZohIrEr6-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="260" />
+              <mxPoint x="560" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-5" value="забронювати кімнату в готелі" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-6" value="поговорити з ші" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-7" target="RaLUIaF08H_UZohIrEr6-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="110" />
+              <mxPoint x="640" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-7" value="переглянути каталог" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-10" value="адмін" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-11" value="ШІ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-12" value="хуєсос" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaLUIaF08H_UZohIrEr6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RaLUIaF08H_UZohIrEr6-6" target="RaLUIaF08H_UZohIrEr6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
